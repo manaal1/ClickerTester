@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ClickerTester</string>
+    <string name="buttonLabel">Button</string>
+</resources>
